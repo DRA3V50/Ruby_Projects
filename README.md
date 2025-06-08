@@ -1,2 +1,3 @@
 # Ruby_Projects
 In order for the 'Fake_Hack' to run, you need to install the extension "Ruby" in your Visual Studios if not done so already. After that, paste the code into your VS, and save as any name than end in '.rb' and close the VS. Go to where you have saved it and double click it to run!
+For the 'Phishing_Web' to run, install the "Ruby" in your Visual Studios if not done so already. Than the gem extensions if not done so already in Visual Studios, they are: 'sinatra', 'launchy', and 'socket.' They are needed for the local IP address, open a URL & web framework. Afterwards, save as any name than end in '.rb' and close the VS. Go to where you have saved it and double click it to run!
