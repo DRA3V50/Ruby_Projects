@@ -1,5 +1,29 @@
-# Ruby_Projects
-In order for the 'Fake_Hack' to run, you need to install the extension "Ruby" in your Visual Studios if not done so already. After that, paste the code into your VS, and save as any name than end in '.rb' and close the VS. Go to where you have saved it and double click it to run!
+# Ruby Projects
 
+This folder contains two Ruby scripts: `Fake_Hack.rb` and `Phishing_Web.rb`.
 
-For the 'Phishing_Web' to run, install the "Ruby" in your Visual Studios if not done so already. Than the gem extensions if not done so already in Visual Studios, they are: 'sinatra', 'launchy', and 'socket.' They are needed for the local IP address, open a URL & web framework. Afterwards, save as any name than end in '.rb' and close the VS. Go to where you have saved it and double click it to run, it will open a CMD, leading you towards a website for 'password' change, along with your 'email' along with your new 'password' it will lead to a different web stating '!!! Account Compromised !!!' then close the web. It will create a .txt in the same location you had saved the 'Phishing_Web.rb' location. If you open that 'Credentials.txt.' it will display the account info you had input in the web!
+---
+
+## Requirements
+
+Make sure you have the **Ruby** extension installed in Visual Studio (VS) before running these scripts.
+
+---
+
+## Scripts Overview
+
+### Fake_Hack.rb
+
+- Open the script in Visual Studio.
+- Save it with any name ending in `.rb`.
+- Close VS.
+- Navigate to where you saved it and double-click the file to run it.
+
+---
+
+### Phishing_Web.rb
+
+- Requires the Ruby gems: `sinatra`, `launchy`, and `socket`.
+- To install these gems, run:
+  ```bash
+  gem install sinatra launchy socket
