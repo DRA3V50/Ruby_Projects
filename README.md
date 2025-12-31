@@ -27,3 +27,18 @@ Make sure you have the **Ruby** extension installed in Visual Studio (VS) before
 - To install these gems, run:
   ```bash
   gem install sinatra launchy socket
+
+---
+
+### MITM_Detection_Simulation_for_SOC_Monitoring.rb
+
+- Open the script in Visual Studio Code.
+
+- Ensure Ruby is installed on your system.
+
+- Open the integrated terminal in VS Code.
+
+- Navigate to the folder containing the script.
+
+- Run the script in terminal using:
+  "ruby MITM_Detection_Simulation_for_SOC_Monitoring.rb"
